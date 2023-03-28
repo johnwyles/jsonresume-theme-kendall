@@ -16,7 +16,8 @@ blockquote,
 #awards,
 .contact-item,
 .publication,
-.skills,
+.volunteers,
+.job,
 .interests {
   page-break-inside: avoid;
 }
